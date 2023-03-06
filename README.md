@@ -14,3 +14,4 @@ This is the main repository for all of the projects.
 | 08  | [Form Wave](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Form%20Wave%20Animation)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Form%20Wave%20Animation/)               |
 | 09  | [Sound Board](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Sound%20Board)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Sound%20Board/)               |
 | 10  | [Dad Jokes](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Dad%20Jokes)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Dad%20Jokes/)               |
+| 11  | [Event Keycodes](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Event%20Keycode)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Event%20Keycode/)               |
