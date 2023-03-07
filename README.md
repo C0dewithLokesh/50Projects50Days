@@ -15,3 +15,4 @@ This is the main repository for all of the projects.
 | 09  | [Sound Board](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Sound%20Board)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Sound%20Board/)               |
 | 10  | [Dad Jokes](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Dad%20Jokes)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Dad%20Jokes/)               |
 | 11  | [Event Keycodes](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Event%20Keycode)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Event%20Keycode/)               |
+| 11  | [Faq Collapse](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/FAQ%20Collapse)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/FAQ%20Collapse/)               |
