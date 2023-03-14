@@ -22,3 +22,4 @@ This is the main repository for all of the projects.
 | 16  | [Drink Water](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Drink%20Water)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Drink%20Water/)               |
 | 17  | [Movie App](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Movie%20App)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Movie%20App/)               |
 | 18  | [Background Slider](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Background%20Slider)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Background%20Slider/)               |
+| 19  | [Theme Clock](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Theme%20Clock)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Theme%20Clock/)               |
