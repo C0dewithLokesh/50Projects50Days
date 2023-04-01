@@ -40,3 +40,4 @@ This is the main repository for all of the projects.
 | 34  | [Animated Countdown](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Animated%20Countdown)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Animated%20Countdown/)               |
 | 35  | [Image Carousel](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Image%20Carousel)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Image%20Carousel/)               |
 | 36  | [Hoverboard](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Hoverboard)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Hoverboard/)               |
+| 37  | [	Pokedex](https://github.com/C0dewithLokesh/50Projects50Days/tree/main/Pokedex)                             | [➥Live Demo](https://c0dewithlokesh.github.io/50Projects50Days/Pokedex/)               |
